@@ -3,3 +3,6 @@ raw/
 __pycache__/
 *.pyc
 venv/
+logs/
+errors/
+runs/*/best.pt

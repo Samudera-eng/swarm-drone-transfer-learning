@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+  background     0.9845    0.8981    0.9393       638
+        bird     0.8548    0.9656    0.9068       378
+       drone     0.9625    0.9753    0.9688       526
+
+    accuracy                         0.9410      1542
+   macro avg     0.9339    0.9463    0.9383      1542
+weighted avg     0.9452    0.9410    0.9414      1542
+
+Confusion matrix:
+[[573  58   7]
+ [  0 365  13]
+ [  9   4 513]]
